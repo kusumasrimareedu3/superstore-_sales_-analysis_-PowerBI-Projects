@@ -38,14 +38,23 @@ The workflow includes:
 
 - ## 📄 Research Publication
 
-The research work associated with this project has been published in the **International Journal of Data Science and IoT Management System (IJDIM)**.
+This project has also been published in an academic journal.
 
-- **Paper Title:** *SuperStore Sales Insights Analysis Dashboard System*
-- **Journal:** International Journal of Data Science and IoT Management System (IJDIM)
-- **Volume & Issue:** Volume 5, Issue 3 (2026)
-- **Published Article:** https://ijdim.com/journal/index.php/ijdim/article/view/1188
-- **Publication Paper:** `SUPERSTORE SALES_IEEE_CONFERENCE (1).pdf`
-- **Publication Certificate:** `publication_certificate.pdf`
+**Paper Title:** SuperStore Sales Insights Analysis Dashboard System
+
+**Journal:** International Journal of Data Science and IoT Management System (IJDIM)
+
+**Volume & Issue:** Volume 5, Issue 3 (2026)
+
+**Published Article:**
+https://ijdim.com/journal/index.php/ijdim/article/view/1188
+
+**Publication Files:**
+- Publication Paper (PDF)
+- Publication Certificate (PDF)
+
+## License
+MIT License
 
 ---
 
